@@ -8,7 +8,8 @@ end
 def monopoly_with_second_tier
  epic_tragedy = {
   :railroads => { 
-    :capital => "Accra"
+    :pieces => 4
+    
   }
  }
 end
